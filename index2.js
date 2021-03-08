@@ -13,3 +13,9 @@ array.every(function(i) {
 array.some(function(i) {
     return i === 9;
 }); //true
+
+Array.isArray('array?');
+Array.isArray(['array?']);
+
+var array = [45, 58, 374];
+array.length;
