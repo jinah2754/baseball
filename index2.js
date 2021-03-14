@@ -23,3 +23,4 @@ array.length;
 var array = [10, 50, 20];
 var array = [20, 50, 45];
 var array = [10, 10 ,10];
+var array = [11, 11, 11];
